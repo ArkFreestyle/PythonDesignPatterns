@@ -5,3 +5,4 @@ Patterns covered:
 1. Iterator Pattern
 1. Decorator Pattern
 1. Observer Pattern
+1. Strategy Pattern
