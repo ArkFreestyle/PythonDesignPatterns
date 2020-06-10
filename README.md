@@ -6,3 +6,4 @@ Patterns covered:
 1. Decorator Pattern
 1. Observer Pattern
 1. Strategy Pattern
+1. State Pattern
