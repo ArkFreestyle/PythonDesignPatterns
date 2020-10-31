@@ -7,3 +7,5 @@ Patterns covered:
 1. Observer Pattern
 1. Strategy Pattern
 1. State Pattern
+1. Singleton Pattern
+1. Template Pattern
