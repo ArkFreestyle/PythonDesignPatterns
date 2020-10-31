@@ -9,3 +9,4 @@ Patterns covered:
 1. State Pattern
 1. Singleton Pattern
 1. Template Pattern
+1. Adapter Pattern
